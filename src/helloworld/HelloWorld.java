@@ -16,6 +16,7 @@ public class HelloWorld {
      */
     public static void main(String[] args) {
         // new app
+        System.out.println("Hello World!");
     }
     
 }
