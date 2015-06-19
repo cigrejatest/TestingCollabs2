@@ -17,8 +17,8 @@ public class HelloWorld {
     public static void main(String[] args) {
         // new app
         System.out.println("Hello World!");
+        System.out.println("some new code here");
         
-        // just a comment
     }
     
 }
